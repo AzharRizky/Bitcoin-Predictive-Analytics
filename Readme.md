@@ -15,8 +15,8 @@ Berdasarkan permasalahan di atas, maka pada proyek ini akan dibangun suatu model
 ### Problem Statements
 Berdasarkan pada latar belakang di atas, permasalahan yang dapat diselesaikan pada proyek ini adalah sebagai berikut:
 
--   Bagaimana cara melakukan pra-pemrosesan data harga bitcoin sehingga dapat digunakan untuk membuat model yang baik?
--   Bagaimana cara membangun model _machine learning_ untuk memprediksi data harga bitcoin kedepannya?
+-   Bagaimana cara melakukan pra-pemrosesan data harga **Bitcoin** sehingga dapat digunakan untuk membuat model yang baik?
+-   Bagaimana cara membangun model _machine learning_ untuk memprediksi data harga **Bitcoin** kedepannya?
 
 ### Goals
 Tujuan dibuatnya proyek ini adalah sebagai berikut:
