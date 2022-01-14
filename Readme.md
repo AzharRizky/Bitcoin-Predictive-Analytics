@@ -3,7 +3,7 @@
 
 Domain proyek yang dipilih dalam proyek _machine learning_ ini adalah mengenai keuangan dan _cryptocurrency_ dengan judul proyek _"Bitcoin Price Predictive Analytics"_.
 
--   Latar Belakang
+### Latar Belakang
   
 _Cryptocurrency_ saat ini berada di era kejayaannya, Di mana banyak investor mulai tertarik untuk berinvestasi pada mata uang digital tersebut. Belum lagi kemunculan aset **NFT** atau _Non Fungible Token_ yang semakin menarik minat masyarakat. Sayangnya untuk membeli aset **NFT** ini, hanya bisa di lakukan dengan transaksi menggunakan mata uang digital, seperti salah satu contohnya ialah **Bitcoin**. Dengan semakin populernya penggunaan _Cryptocurrency_ dan mata uang digital di era industri 4.0 ini. Di butuhkan keputusan yang matang dan memerlukan analisis lanjutan. Agar tidak salah dalam mengambil keputusan dan mengakibatkan kerugian dalam melakukan transaksi aset digital tersebut. Khususnya pada transaksi **Bitcoin** yang akan kita bahas dalam laporan ini.
 
