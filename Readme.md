@@ -72,7 +72,7 @@ Solusi yang dapat dilakukan untuk memenuhi tujuan dari proyek ini diantaranya:
 
 - **Sebaran atau Distribusi Data pada Setiap Fitur**
   <br> sebelum masuk ke tahap distribusi data, persiapan yang dilakukan yaitu perlu membuat dua variabel baru yaitu variabel OHLC_Average untuk menampung rata-rata harga dan Price_After_Month untuk harga setelah sebulan.
-  <br> Berikut merupakan visualisasi data yang menunjukkan sebaran/distribusi data pada setiap fitur-fitur numerik (`High, Low, Open, Close,'OHLC_Average','Price_After_Month'`) :
+  <br> Berikut merupakan visualisasi data yang menunjukkan sebaran/distribusi data pada setiap fitur-fitur numerik (`High, Low, Open, Close, OHLC_Average, Price_After_Month`) :
   
   - Mengidentifikasi Missing Value dan Outlier
     <br>
